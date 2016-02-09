@@ -162,7 +162,7 @@ how it works:
 
 /*
 `.menu-link` represents the responsive menu toggle that shows/hides on
-//small screens.
+small screens.*/
 
 .menu-link {
     position: fixed;
